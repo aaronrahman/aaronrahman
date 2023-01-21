@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaronrahman
 - 👀 I’m interested in Computer Science and Programming!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: aaronsrahman@gmail.com
 
 <!---
