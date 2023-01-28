@@ -3,8 +3,7 @@
 <p><em>Computer Science Student at <a href="https://www.uwo.ca">Western University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: aaronrahman](https://img.shields.io/badge/-aaronrahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaronrahman/)](https://www.linkedin.com/in/aaronrahman/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
@@ -12,7 +11,7 @@
 
 ```javascript
 const aaron = {
-  pronouns: "hem" | "him",
+  pronouns: "he" | "him",
   code: [Python, Javascript, HTML, CSS, Typescript],
   tools: [React, Node, Next],
   architecture: ["microservices", "event-driven", "design system pattern"],
