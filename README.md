@@ -11,15 +11,10 @@
 ```javascript
 const aaron = {
   pronouns: "he" | "him",
-  code: [Python, Javascript, HTML, CSS, Typescript],
-  tools: [React, Node, Next],
+  code: [Java, Python, R, C, C++, Javascript, HTML/CSS, Typescript, SQL, XML],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am currently learning Java"
+
+ challenge: "I am currently trying to learn more about machine learning!"
 }
 ```
 
