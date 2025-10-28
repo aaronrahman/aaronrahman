@@ -12,7 +12,6 @@
 const aaron = {
   pronouns: "he" | "him",
   code: [Java, Python, R, C, C++, Javascript, HTML/CSS, Typescript, SQL, XML],
-  architecture: ["microservices", "event-driven", "design system pattern"],
 
  challenge: "I am currently trying to learn more about machine learning!"
 }
