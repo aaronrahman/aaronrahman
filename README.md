@@ -1,4 +1,4 @@
-<h1 align="center">Qameo</h1>
+<h1 align="center">Aaron Rahman</h1>
 <h3 align="center">Aspiring Computational Neuroscientist · ML × Neuroscience</h3>
 
 <p align="center">
@@ -37,8 +37,8 @@ My broader interest is in the overlap between SSMs and biological RNNs: SSMs wer
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaronrahman&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronrahman&layout=compact&hide_border=true" height="165" />
 </p>
 
 ### 📫 Contact
