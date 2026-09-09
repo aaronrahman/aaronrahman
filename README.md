@@ -34,12 +34,6 @@ My broader interest is in the overlap between SSMs and biological RNNs: SSMs wer
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaronrahman&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronrahman&layout=compact&hide_border=true" height="165" />
-</p>
 
 ### 📫 Contact
 
