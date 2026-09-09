@@ -3,6 +3,7 @@
 
 <p align="center">
   Honours CS grad (Western University), currently on a research gap year and looking for a computational neuroscience lab to join ahead of a Master's starting Fall 2027.
+  <img src="https://raw.githubusercontent.com/aaronrahman/aaronrahman/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
