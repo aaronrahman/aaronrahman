@@ -1,9 +1,6 @@
 <h1 align="center">Aaron Rahman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Computational+Neuroscientist;ML+%C3%97+Neuroscience;Currently+exploring+SSMs+%26+neural+dynamics" alt="Typing SVG" />
-</p>
-<p
   Honours CS grad (Western University), currently on a research gap year and looking for a computational neuroscience lab to join ahead of a Master's starting Fall 2027.
   <img src="https://raw.githubusercontent.com/aaronrahman/aaronrahman/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
